@@ -1,0 +1,8 @@
+{
+  "name": "HireAI - Intelligent Interview Platform",
+  "description": "An AI-powered recruitment and training ecosystem for automated interviews and skill development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
